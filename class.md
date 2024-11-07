@@ -1,4 +1,11 @@
 Kristian	
 Germany	
-Meta Front-End course
-
+sandy
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
